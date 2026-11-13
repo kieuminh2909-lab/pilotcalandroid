@@ -1,0 +1,8 @@
+{
+	"appId": "com.aql.pilotsampling",
+	"appName": "Pilot Sampling",
+	"webDir": "dist",
+	"android": {
+		"allowMixedContent": false
+	}
+}
